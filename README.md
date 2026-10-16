@@ -1,8 +1,8 @@
 # GCSCAN
 
-**Graph-based Cellular Spatial Clustering Against Noise (GCSCAN)** identifies spatially clustered cellular structures, such as tertiary lymphoid structures (TLSs) and B cell follicles,, in spatial single-cell data.
+**Graph-based Cellular Spatial Clustering Against Noise (GCSCAN)** identifies spatially clustered cellular structures, such as tertiary lymphoid structures (TLSs) and B cell follicles, in spatial single-cell data.
 
-This repository provides the Python implementation (`gcscan.py`). A small example dataset and Jupyter notebook (`example_gcscan.ipynb`) is also provided as tutortials. For a detailed explanation of the method, see the accompanying manuscript.
+This repository provides the Python implementation (`gcscan.py`). A small example dataset and Jupyter notebook (`example_gcscan.ipynb`) are also provided as tutortials. For a detailed explanation of the method, see the accompanying manuscript.
 
 
 
@@ -20,9 +20,9 @@ These packages are also available via Conda.
 
 To use, simply copy the gcscan.py file to a place that's accessible by your Python environment.
 
-## Quick start
-
 For the full workflow, including plots, see [`example_gcscan.ipynb`](example_gcscan.ipynb).
+
+## Quick Start
 
 ### Core function
 
